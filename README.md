@@ -1,2 +1,0 @@
-# laiproject
-Laioffer Intern Project
